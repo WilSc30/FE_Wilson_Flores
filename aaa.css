@@ -1,0 +1,11 @@
+.overlay-image{
+    position: absolute; top: 200px; width: 200px; left: 200px;
+}
+
+.text-box{
+    position: absolute;top: 400px; left: 150px;
+    color: white;
+    max-width: 300px;
+    max-height: 100px;
+    text-align: center;
+}
